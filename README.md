@@ -1,4 +1,4 @@
-# FloraFusion---Responsive-Floral-Website-Template
+# FloraFusion [Responsive-Floral-Website-Template]
 
 Site live at: https://babita1408.github.io/FloraFusion---Responsive-Floral-Website-Template/
 
